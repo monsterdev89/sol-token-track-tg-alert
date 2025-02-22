@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@raydium-io/raydium-sdk": "^1.3.1-beta.58",
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "helius-sdk": "^1.4.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.64.7"
+  }
+}
